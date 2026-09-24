@@ -1,7 +1,7 @@
 # Proyecto Vivero
 TPE - Parte 1
 
-Integrantes: Herrera Nicole; Fernandez Miguel Angel; Di Fiore Ludmila.
+Integrantes: Herrera Nicole (nicoleherrera652@gmail.com); Di Fiore Ludmila.
 
 Temática: Vivero.
 
