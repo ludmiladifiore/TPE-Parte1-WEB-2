@@ -5,14 +5,13 @@ Integrantes: Herrera Nicole (nicoleherrera652@gmail.com); Di Fiore Ludmila.
 
 Temática: Vivero.
 
-Descripción de la temática: Creación de un sitio web para una tienda de plantas, que permitirá visualizar e interactuar con los productos disponibles.
-El modelo de datos establece una relación de uno a muchos (1:N), donde una tienda puede tener muchas plantas, mientras que cada planta pertenece a una única tienda.
+Descripción de la temáticacreación de un sitio web para una tienda de plantas, cuyo objetivo es permitir a los visitantes visualizar e interactuar con los productos disponibles. El sistema contará con un usuario administrador, responsable de gestionar el catálogo mediante operaciones de creación, modificación y eliminación de registros.
 
-Imagen DER:
+El modelo de datos se organiza a través de una relación uno a muchos (1:N), en la cual:
 
+  -Una tienda (Sucursal) puede tener asociadas muchas plantas.
 
-
-<img width="795" height="418" alt="DER" src="https://github.com/user-attachments/assets/f41684f8-0b51-4d9b-a430-b3a05e494ff6" />
+  -Cada planta pertenece exclusivamente a una única tienda.
 
 
 
